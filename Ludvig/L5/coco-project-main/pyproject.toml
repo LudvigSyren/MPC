@@ -1,0 +1,15 @@
+[project]
+name = "coco-project-main"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "cvxpy>=1.5.3",
+    "daqp>=0.5.1.post1",
+    "gymnasium[box2d]>=1.0.0",
+    "matplotlib>=3.9.2",
+    "moviepy>=1.0.3",
+    "numpy>=2.1.2",
+    "pygame>=2.6.1",
+]
